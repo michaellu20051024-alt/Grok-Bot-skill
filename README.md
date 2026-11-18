@@ -10,4 +10,4 @@
 - [dsc-tangent-onset](skills/dsc-tangent-onset/SKILL.md)：用切线法从 DSC 曲线求外推起始温度，同时给出首次偏离温度、敏感性分析和作图过程。
 - [open-book-exam-pack](skills/open-book-exam-pack/SKILL.md)：制作开卷考试考场资料，包括题目索引、知识点索引和附录图表速查册。
 - [weekly-evidence-review-meeting](skills/weekly-evidence-review-meeting/SKILL.md)：组织多岗位每周复盘，包括取证、周报评分、两轮讨论、提交待批准结论和整改验收。
-- [zh-review-evidence-tiering](skills/zh-review-evidence-tiering/SKILL.md)：写中文综述时按证据等级分配详略，并去掉成稿里的工作痕迹。
+- [zh-review-evidence-tiering](skills/zh-review-evidence-tiering/SKILL.md)：写中文综述时按证据等级分配详略，并去掉成稿里的工作痕迹；也用于落实导师或师兄的审阅意见，以及出送审大纲。
